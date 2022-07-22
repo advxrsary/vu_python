@@ -1,0 +1,6 @@
+{
+    "name": "Pavel Yushkevich",
+    "identifier": "7",
+    "items": [ { "name": "Kebab", "quantity": 2, "price": 1.3},
+        { "name": "Sprite", "quantity": 3, "price": 1.7} ]
+}

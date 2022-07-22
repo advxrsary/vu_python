@@ -1,0 +1,5 @@
+[
+    "name: Jonas Jonaitis",
+    "identifier: 1",
+    "items: Food(name='Pizza', count=12, price=1.5)[Drink(name='cola', count=5, price=2)][Drink(name='water', count=5, price=2)]"
+]
